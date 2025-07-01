@@ -62,9 +62,9 @@ Backend protects API routes with auth.js middleware
 
 Logout simply clears the JWT from client storage  
 # Video
-  [![Watch Demo](https://img.youtube.com/vi/NP435pW361M/0.jpg)](https://youtu.be/NP435pW361M)  
+  [![Watch Demo](https://img.youtube.com/vi/igm1Lz7w-EE/0.jpg)](https://youtu.be/igm1Lz7w-EE)  
 
-📺 [Click here to watch on YouTube »](https://youtu.be/NP435pW361M)  
+📺 [Click here to watch on YouTube »](https://youtu.be/igm1Lz7w-EE)  
 # Screnshot
 # 📸 Post Types
 Users can post:  
