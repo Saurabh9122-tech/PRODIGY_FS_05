@@ -61,11 +61,12 @@ JWT-based login with persistent localStorage
 Backend protects API routes with auth.js middleware  
 
 Logout simply clears the JWT from client storage  
-# Video
+# 🎥 Demo Video
   [![Watch Demo](https://img.youtube.com/vi/igm1Lz7w-EE/0.jpg)](https://youtu.be/igm1Lz7w-EE)  
 
 📺 [Click here to watch on YouTube »](https://youtu.be/igm1Lz7w-EE)  
-# Screnshot
+# Screnshot  
+
 # 📸 Post Types
 Users can post:  
 
