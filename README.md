@@ -47,7 +47,7 @@ PRODIGY_FS_05/
 # 🛠️ Getting Started  
 ## 1. Clone the Repo  
 
-git clone [Click](https://github.com/your-username/PRODIGY_FS_05)  
+git clone [Click](https://github.com/Saurabh9122-tech/PRODIGY_FS_05)  
 cd PRODIGY_FS_05
 ## 2. Install Dependencies   
 npm install  
