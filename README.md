@@ -1,4 +1,4 @@
-#  PRODIGY_FS_05 — Minimal Social Media Platform
+#  PRODIGY_FS_05 — Social Media Platform
 **PRODIGY_FS_05** is a clean, beginner-friendly full-stack social media web application that includes essential features like user authentication, media posting, likes, comments, and a trending feed — all built with simple, familiar technologies to help you understand and extend with ease.
 
 🔐 Register and log in (with JWT auth)
@@ -110,3 +110,4 @@ Want to take it further? Try adding:
 
 # 🧑‍💻 Author 
 Built By **Saurabh kumar**with ❤️ as part of PRODIGY_FS_05 Task — focused on clarity, function, and extensibility.
+# 
