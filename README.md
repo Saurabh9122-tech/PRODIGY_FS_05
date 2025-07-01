@@ -65,7 +65,14 @@ Logout simply clears the JWT from client storage
   [![Watch Demo](https://img.youtube.com/vi/igm1Lz7w-EE/0.jpg)](https://youtu.be/igm1Lz7w-EE)  
 
 📺 [Click here to watch on YouTube »](https://youtu.be/igm1Lz7w-EE)  
-# Screnshot  
+# 📸 Screenshots 
+## 🔐 Signup Page  
+![](https://github.com/Saurabh9122-tech/PRODIGY_FS_05/blob/main/Screenshot%202025-07-01%20185047.png)  
+## 🔐 Login Page  
+![](https://github.com/Saurabh9122-tech/PRODIGY_FS_05/blob/main/Screenshot%202025-07-01%20185035.png)  
+## 💬 Home Page  
+![](https://github.com/Saurabh9122-tech/PRODIGY_FS_05/blob/main/Screenshot%202025-07-01%20185121.png)
+![](https://github.com/Saurabh9122-tech/PRODIGY_FS_05/blob/main/Screenshot%202025-07-01%20185146.png)
 
 # 📸 Post Types
 Users can post:  
