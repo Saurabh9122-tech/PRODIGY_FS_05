@@ -112,9 +112,9 @@ Want to take it further? Try adding:
 
 🎨 Design upgrades with Tailwind or Bootstrap  
 
-# 🧑‍💻 Author 
+ # 🧑‍💻 Author 
 Built By **Saurabh kumar**with ❤️ as part of PRODIGY_FS_05 Task — focused on clarity, function, and extensibility.
-# # 👨‍💻 About  
+# 👨‍💻 About  
 #### Linkdin
 [Sauraabh Kumar](www.linkedin.com/in/saurabh-kumar-9999s)
 #### Youtube 
