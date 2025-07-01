@@ -14,12 +14,12 @@
 🎯 Built with vanilla HTML/CSS/JS + Node.js/Express + MongoDB
 
 # 🧠 Features Overview
-✅ JWT Auth – Secure login & registration
-🖼️ Image and Video Uploads – Easily post rich media
-💬 Likes & Comments – Users can engage with posts
-📈 Trending Feed – Sorts posts based on popularity
-🚪 Logout – Session ends securely
-🧪 Simple UI – Built with plain HTML/CSS/JS (easy to customize)
+✅ JWT Auth – Secure login & registration  
+🖼️ Image and Video Uploads – Easily post rich media  
+💬 Likes & Comments – Users can engage with posts  
+📈 Trending Feed – Sorts posts based on popularity  
+🚪 Logout – Session ends securely  
+🧪 Simple UI – Built with plain HTML/CSS/JS (easy to customize)  
 
 # 📁 Folder Structure
 PRODIGY_FS_05/  
