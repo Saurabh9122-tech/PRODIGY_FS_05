@@ -116,7 +116,7 @@ Want to take it further? Try adding:
 Built By **Saurabh kumar**with ❤️ as part of PRODIGY_FS_05 Task — focused on clarity, function, and extensibility.
 # 👨‍💻 About  
 #### Linkdin
-[Sauraabh Kumar](https://github.com/Saurabh9122-tech/PRODIGY_FS_05/blob/main/www.linkedin.com/in/saurabh-kumar-9999s)
+[Sauraabh Kumar][LinkedIn](https://www.linkedin.com/in/saurabh-kumar-9999s)
 #### Youtube 
 [CLICK](https://www.youtube.com/channel/UCo6S7_jvZi_V_06co2yCEEA)
 
